@@ -2,6 +2,8 @@
 Animal Rescue
 # Description
 Creating an application for assisting an Animal Rescue not-for-profit organization for managing incoming animals.
+# Instruction about the project
+Read word file for full in detail instruction about the project.
 # Author
 Himanshu Aggarwal
 # Running the project
